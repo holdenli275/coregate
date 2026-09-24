@@ -1,0 +1,34 @@
+# Archives are distributed through release assets / Zenodo, not git
+coregate_dataset_template_v2.tar.zst
+coregate_icasp_package_*.tar.gz
+dist/
+
+# Extracted dataset and generated caches
+data/
+*.cache
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.egg-info/
+build/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+paper/*.pdf
+
+# macOS
+.DS_Store
+._*

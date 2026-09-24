@@ -1,0 +1,78 @@
+{
+  "protocol": "coregate_lineage_target_statistics_v1",
+  "mask_file": "results/label_blind_lineage_masks.json",
+  "mask_file_sha256": "93cc44e40103c0bb9788c4c76bb77aff97e10283f487c91f2f5d5398296f8b45",
+  "catalog_file": "dataset_metadata/catalog.json",
+  "catalog_file_sha256": "5a7a3126d4426a0f570fe4f72d38917ae4a059d04bb1ea43384e477d2d7d3e8b",
+  "labelled_graphs": 360,
+  "positive_nodes_per_graph": {
+    "mean": 21.541666666666668,
+    "median": 4.0,
+    "q1": 2.0,
+    "q3": 5.0,
+    "min": 1,
+    "max": 879
+  },
+  "process_nodes_per_graph": {
+    "mean": 97.13055555555556,
+    "median": 18.0,
+    "q1": 16.0,
+    "q3": 24.0,
+    "min": 15,
+    "max": 1400
+  },
+  "largest_targets": {
+    "positive_count": 879,
+    "graph_count": 7,
+    "techniques": [
+      "T1553.004"
+    ]
+  },
+  "mean_selected_fraction": {
+    "overall": 0.21270471471344063,
+    "env_ubuntu22_template_v1": 0.21180516983197548,
+    "env_ubuntu22_v1": 0.21074875134351664,
+    "env_ubuntu22_v2": 0.21135366309341674,
+    "single_host_ubuntu22_container": 0.21696969658298979,
+    "min_fold": 0.21074875134351664,
+    "max_fold": 0.21696969658298979
+  },
+  "per_fold": {
+    "env_ubuntu22_template_v1": {
+      "graphs": 55,
+      "mean_selected_fraction": 0.21180516983197548
+    },
+    "env_ubuntu22_v1": {
+      "graphs": 54,
+      "mean_selected_fraction": 0.21074875134351664
+    },
+    "env_ubuntu22_v2": {
+      "graphs": 163,
+      "mean_selected_fraction": 0.21135366309341674
+    },
+    "single_host_ubuntu22_container": {
+      "graphs": 88,
+      "mean_selected_fraction": 0.21696969658298979
+    }
+  },
+  "label_invariance": {
+    "changed_masks_after_label_permutation": 0,
+    "all_masks_byte_identical": true
+  },
+  "target_definition": "process nodes associated with events whose collection-time execution_role is scenario",
+  "allowed_input_fields": [
+    "sample_id",
+    "annotation_path",
+    "events_path",
+    "graph_path"
+  ],
+  "forbidden_input_fields": [
+    "target",
+    "technique",
+    "guid",
+    "template_group",
+    "supplemental_trigger",
+    "core_graph_path",
+    "source_manifest"
+  ]
+}

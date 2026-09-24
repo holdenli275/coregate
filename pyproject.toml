@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coregate"
+version = "0.7.0"
+description = "Execution-lineage supervision for attack technique recognition under environment shift"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file = "LICENSE" }
+keywords = ["ATT&CK", "execution lineage", "weak supervision", "graph classification", "host telemetry"]
+
+[project.urls]
+Homepage = "https://github.com/holdenli275/coregate"
+
+# The experiment runners under code/ are plain scripts that Python resolves via
+# the script directory, so only the coregate package needs to be installed.
+[tool.setuptools]
+packages = ["coregate"]

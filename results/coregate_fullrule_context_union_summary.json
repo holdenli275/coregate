@@ -1,0 +1,384 @@
+{
+  "protocol": "fullrule_context_union_sensitivity_v1",
+  "seeds": [
+    20260921,
+    20260922,
+    20260923
+  ],
+  "folds": 4,
+  "epochs": 15,
+  "summary": {
+    "ordinary": {
+      "accuracy": {
+        "mean": 0.917339335757025,
+        "std_ddof1": 0.006665856638946297,
+        "seed_values": [
+          0.9140729896097994,
+          0.9129366259734358,
+          0.9250083916878395
+        ]
+      },
+      "macro_f1": {
+        "mean": 0.9291933221099885,
+        "std_ddof1": 0.005339151561173755,
+        "seed_values": [
+          0.9268813131313128,
+          0.9253998316498314,
+          0.9352988215488214
+        ]
+      },
+      "embedding_only_accuracy": {
+        "mean": 0.9163923660600553,
+        "std_ddof1": 0.007510212514678245,
+        "seed_values": [
+          0.9112320805188904,
+          0.9129366259734358,
+          0.9250083916878395
+        ]
+      },
+      "embedding_only_macro_f1": {
+        "mean": 0.9275883838383837,
+        "std_ddof1": 0.006687698518635092,
+        "seed_values": [
+          0.9241035353535351,
+          0.9233627946127944,
+          0.9352988215488214
+        ]
+      }
+    },
+    "coregate_full_rule": {
+      "accuracy": {
+        "mean": 0.9576560595732375,
+        "std_ddof1": 0.0037556056727728274,
+        "seed_values": [
+          0.9582428322075562,
+          0.9536416052136911,
+          0.9610837412984653
+        ]
+      },
+      "macro_f1": {
+        "mean": 0.9591933221099889,
+        "std_ddof1": 0.006060910505665432,
+        "seed_values": [
+          0.9617255892255893,
+          0.9522769360269361,
+          0.963577441077441
+        ]
+      },
+      "embedding_only_accuracy": {
+        "mean": 0.9570878777550557,
+        "std_ddof1": 0.003751384421546413,
+        "seed_values": [
+          0.9565382867530107,
+          0.9536416052136911,
+          0.9610837412984653
+        ]
+      },
+      "embedding_only_macro_f1": {
+        "mean": 0.9591919191919192,
+        "std_ddof1": 0.006126799886784437,
+        "seed_values": [
+          0.9613552188552189,
+          0.9522769360269361,
+          0.9639436026936027
+        ]
+      }
+    },
+    "coregate_lineage": {
+      "accuracy": {
+        "mean": 0.9591898019045259,
+        "std_ddof1": 0.0016401996283796013,
+        "seed_values": [
+          0.9610837412984653,
+          0.9582428322075562,
+          0.9582428322075562
+        ]
+      },
+      "macro_f1": {
+        "mean": 0.9544234006734008,
+        "std_ddof1": 0.0018565472689358322,
+        "seed_values": [
+          0.9555639730639731,
+          0.9522811447811448,
+          0.9554250841750842
+        ]
+      },
+      "embedding_only_accuracy": {
+        "mean": 0.9591898019045259,
+        "std_ddof1": 0.0016401996283796013,
+        "seed_values": [
+          0.9610837412984653,
+          0.9582428322075562,
+          0.9582428322075562
+        ]
+      },
+      "embedding_only_macro_f1": {
+        "mean": 0.9562920875420876,
+        "std_ddof1": 0.0023859998891415787,
+        "seed_values": [
+          0.9589436026936027,
+          0.9543181818181818,
+          0.9556144781144781
+        ]
+      }
+    },
+    "fullrule_context_union": {
+      "accuracy": {
+        "mean": 0.9477142763696956,
+        "std_ddof1": 0.010947638347479943,
+        "seed_values": [
+          0.9351798919667018,
+          0.9554019231166471,
+          0.952561014025738
+        ]
+      },
+      "macro_f1": {
+        "mean": 0.9488690476190476,
+        "std_ddof1": 0.0067733534434747,
+        "seed_values": [
+          0.9414099326599326,
+          0.9546356421356421,
+          0.950561568061568
+        ]
+      },
+      "embedding_only_accuracy": {
+        "mean": 0.9477142763696956,
+        "std_ddof1": 0.010947638347479943,
+        "seed_values": [
+          0.9351798919667018,
+          0.9554019231166471,
+          0.952561014025738
+        ]
+      },
+      "embedding_only_macro_f1": {
+        "mean": 0.9489307760141092,
+        "std_ddof1": 0.006852564186342559,
+        "seed_values": [
+          0.9414099326599326,
+          0.9548208273208273,
+          0.950561568061568
+        ]
+      }
+    }
+  },
+  "paired_comparisons": {
+    "fullrule_context_union_minus_ordinary": {
+      "accuracy": {
+        "mean": 0.03037494061267067,
+        "min": 0.0,
+        "max": 0.05555555555555547,
+        "positive_count": 10,
+        "nonnegative_count": 12,
+        "n": 12,
+        "values": [
+          0.054545454545454564,
+          0.01851851851851849,
+          0.0,
+          0.011363636363636465,
+          0.036363636363636376,
+          0.05555555555555547,
+          0.05521472392638038,
+          0.022727272727272707,
+          0.036363636363636376,
+          0.03703703703703698,
+          0.036809815950920255,
+          0.0
+        ]
+      },
+      "macro_f1": {
+        "mean": 0.019675725509058977,
+        "min": -0.006878306878307039,
+        "max": 0.03863636363636391,
+        "positive_count": 10,
+        "nonnegative_count": 10,
+        "n": 12,
+        "values": [
+          0.03777777777777802,
+          0.015151515151515471,
+          -0.0037037037037034315,
+          0.008888888888888724,
+          0.022222222222222365,
+          0.03863636363636391,
+          0.034074074074074145,
+          0.022010582010582147,
+          0.022222222222222365,
+          0.023484848484848664,
+          0.022222222222222365,
+          -0.006878306878307039
+        ]
+      }
+    },
+    "fullrule_context_union_minus_coregate_full_rule": {
+      "accuracy": {
+        "mean": -0.009941783203541906,
+        "min": -0.05521472392638038,
+        "max": 0.018404907975460127,
+        "positive_count": 1,
+        "nonnegative_count": 8,
+        "n": 12,
+        "values": [
+          0.0,
+          -0.03703703703703698,
+          -0.05521472392638038,
+          0.0,
+          0.0,
+          0.0,
+          0.018404907975460127,
+          -0.011363636363636465,
+          0.0,
+          0.0,
+          0.0,
+          -0.03409090909090917
+        ]
+      },
+      "macro_f1": {
+        "mean": -0.01032427449094119,
+        "min": -0.052063492063492145,
+        "max": 0.011111111111111072,
+        "positive_count": 3,
+        "nonnegative_count": 7,
+        "n": 12,
+        "values": [
+          0.0,
+          -0.023484848484848442,
+          -0.040740740740740744,
+          -0.017037037037037406,
+          0.008148148148148127,
+          0.0007575757575757347,
+          0.011111111111111072,
+          -0.01058201058201047,
+          0.0,
+          0.0,
+          0.0,
+          -0.052063492063492145
+        ]
+      }
+    },
+    "fullrule_context_union_minus_coregate_lineage": {
+      "accuracy": {
+        "mean": -0.01147552553483025,
+        "min": -0.05521472392638038,
+        "max": 0.0,
+        "positive_count": 0,
+        "nonnegative_count": 7,
+        "n": 12,
+        "values": [
+          0.0,
+          -0.03703703703703698,
+          -0.05521472392638038,
+          -0.011363636363636354,
+          0.0,
+          0.0,
+          0.0,
+          -0.011363636363636465,
+          0.0,
+          0.0,
+          0.0,
+          -0.022727272727272818
+        ]
+      },
+      "macro_f1": {
+        "mean": -0.005554353054353108,
+        "min": -0.040740740740740744,
+        "max": 0.008888888888888835,
+        "positive_count": 6,
+        "nonnegative_count": 8,
+        "n": 12,
+        "values": [
+          0.008888888888888835,
+          -0.014393939393939403,
+          -0.040740740740740744,
+          -0.010370370370370585,
+          0.008148148148148127,
+          0.0,
+          0.0007407407407407085,
+          0.0005291005291004902,
+          0.008148148148148127,
+          0.0007575757575757347,
+          0.0,
+          -0.028359788359788585
+        ]
+      }
+    }
+  },
+  "mask_only_audit": {
+    "full_rule": {
+      "accuracy": {
+        "mean": 0.9140729896097994,
+        "std_ddof1": 0.0,
+        "seed_means": [
+          0.9140729896097994,
+          0.9140729896097994,
+          0.9140729896097994
+        ]
+      },
+      "macro_f1": {
+        "mean": 0.913611111111111,
+        "std_ddof1": 0.0,
+        "seed_means": [
+          0.913611111111111,
+          0.913611111111111,
+          0.913611111111111
+        ]
+      }
+    },
+    "context_union": {
+      "accuracy": {
+        "mean": 0.9370243849538328,
+        "std_ddof1": 0.0,
+        "seed_means": [
+          0.9370243849538328,
+          0.9370243849538328,
+          0.9370243849538328
+        ]
+      },
+      "macro_f1": {
+        "mean": 0.9434932659932659,
+        "std_ddof1": 0.0,
+        "seed_means": [
+          0.9434932659932659,
+          0.9434932659932659,
+          0.9434932659932659
+        ]
+      }
+    },
+    "context_union_minus_full_rule": {
+      "accuracy": 0.022951395344033343,
+      "macro_f1": 0.029882154882154843
+    }
+  },
+  "construction_audit": {
+    "protocol": "fullrule_context_union_mask_v1",
+    "definition": "all FullRule nodes union all label-blind scenario-process lineage nodes",
+    "catalog": "data/linux_telemetry/reference_candidates_template_v2/catalog.json",
+    "lineage_mask_file": "data/experiment_results/leave_one_env_v1/label_blind_lineage_masks.json",
+    "samples": 360,
+    "full_rule_positive_nodes": 8608,
+    "lineage_positive_nodes": 7755,
+    "union_positive_nodes": 9106,
+    "added_context_nodes": 498,
+    "unchanged_from_full_rule_samples": 142,
+    "all_full_rule_nodes_retained": true,
+    "all_lineage_nodes_retained": true,
+    "uses_target": false,
+    "uses_technique_rules": true,
+    "uses_control_kind": true,
+    "uses_core_graph": true,
+    "lineage_component_label_invariant": true
+  },
+  "sanity_checks": {
+    "rows": 48,
+    "same_graph_and_support_hashes": true,
+    "all_test_masks_cleared": true,
+    "all_full_rule_nodes_retained": true,
+    "context_union_positive_count_delta": 0,
+    "parameter_counts": {
+      "ordinary": 225839,
+      "coregate_full_rule": 225968,
+      "coregate_lineage": 225968,
+      "fullrule_context_union": 225968
+    }
+  },
+  "decision": "reject_context_union_as_shortcut_mitigation",
+  "interpretation": "ContextUnion lowers mean CoreGate classification relative to FullRule but increases mask-only predictiveness. The lower model score therefore cannot be interpreted as reduced rule shortcut."
+}

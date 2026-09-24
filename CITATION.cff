@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or the released results, please cite this repository and the paper."
+title: "CoreGate: Execution-Lineage Supervision for Attack Technique Recognition under Environment Shift"
+abstract: >-
+  Reference implementation and released experiment artifacts for CoreGate, an
+  approach that converts process associations recorded in execution journals
+  into training-only foreground supervision for attack-technique recognition.
+  The package contains the encoder and gated-readout training code, the locked
+  leave-one-environment-out results, the ablation, holdout and statistics
+  audits, and the dataset metadata and catalog.
+version: "0.7"
+date-released: "2026-09-24"
+license: MIT
+repository-code: "https://github.com/holdenli275/coregate"
+url: "https://github.com/holdenli275/coregate"
+doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - attack technique recognition
+  - execution lineage
+  - weak supervision
+  - graph classification
+  - ATT&CK
+  - host telemetry
+  - environment shift
+authors:
+  - name: "Anonymous Authors (double-blind review copy)"
+type: software
+references:
+  - type: dataset
+    title: "CoreGate Linux Telemetry Candidate Set (template v2)"
+    authors:
+      - name: "Anonymous Authors (double-blind review copy)"
+    version: "2.0"
+    date-released: "2026-09-24"
+    license: CC-BY-4.0
+    doi: "10.5281/zenodo.YYYYYYY"
+    url: "https://doi.org/10.5281/zenodo.YYYYYYY"
+    notes: "Released upon acceptance of the accompanying paper."

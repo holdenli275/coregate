@@ -1,0 +1,70 @@
+{
+  "protocol": "coregate_tgn_leave_one_environment_out_v1",
+  "catalog": "data/experiment_results/leave_one_env_v1/template_disjoint_minimal_catalog.json",
+  "view": "Raw_Graph",
+  "exclude_classes": [],
+  "environments": [
+    "template_disjoint_test"
+  ],
+  "results": [
+    {
+      "holdout_environment": "template_disjoint_test",
+      "seed": 20260921,
+      "classes": 45,
+      "train_samples": 105,
+      "test_samples": 255,
+      "test_class_count": 45,
+      "training_protocol": "episode_tgn",
+      "core_pool_weight": 0.0,
+      "core_gate_weight": 0.0,
+      "pooling": "ordinary",
+      "test_core_mask": "none",
+      "train_core_mask": "evidence",
+      "episode_query_samples": 60,
+      "similarity_prototype": "support",
+      "classifier_scaler": "standard",
+      "share_gate_forward": false,
+      "last_loss": 4.800107002258301,
+      "last_loss_parts": {
+        "ce": 2.8978285789489746,
+        "metric_ce": 3.7643494606018066,
+        "margin": 0.20103579759597778,
+        "core_gate": 0.0
+      },
+      "baseline": {
+        "accuracy": 0.8901960784313725,
+        "macro_f1": 0.8487674768376522
+      },
+      "embedding_only": {
+        "accuracy": 0.8901960784313725,
+        "macro_f1": 0.8487674768376522
+      },
+      "augmentation": {
+        "mode": "none",
+        "synthetic_samples": 0
+      },
+      "trainable_parameters": 225839,
+      "reference_train_core_positive_nodes": 1384,
+      "train_core_positive_nodes": 1384,
+      "train_core_positive_count_max_abs_delta": 0,
+      "test_core_node_mask_sum_after_clear": 0,
+      "test_core_edge_mask_sum_after_clear": 0,
+      "test_mask_leakage_check": true,
+      "train_graph_hash": "f262a3ac3cccf507",
+      "test_graph_hash": "f82872af5043c984",
+      "support_graph_hash": "e5ff284a9d6f29ae",
+      "train_graph_count": 105,
+      "test_graph_count": 255,
+      "support_graph_count": 45
+    }
+  ],
+  "mean_baseline": {
+    "accuracy": 0.8901960784313725,
+    "macro_f1": 0.8487674768376522
+  },
+  "limitations": [
+    "Environment groups are isolated container batches on one host, not independent hosts.",
+    "Core graphs use automatic evidence boundaries and have no independent manual gold.",
+    "Targets are automatic weak supervision, not independently validated attack evidence."
+  ]
+}

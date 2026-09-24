@@ -1,0 +1,2978 @@
+{
+  "status": "pass",
+  "samples": [
+    {
+      "run_id": "rb62e08a79cda4b8d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rfaa7149c946f4653",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 13,
+      "verified_raw_references": 26,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r91bb587a3faf4408",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r6d5de8156d05486f",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r9d3da37acee246f2",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r9ce72edb460c4374",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rebba1680600248fe",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re5de60f5ac2a4f85",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r883e83ab630544ff",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r8559a567da5b4041",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r61f4c5402e1f4c75",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r16c39e8ddcf44d3a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r341016009ad04208",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1ba21effa95647b0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r9b053ef6144d4938",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc23f2afc0db74f40",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra7dcc73a58a5422a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r4bef64d3f89d402a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r405a0a9302a74b59",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 99,
+      "verified_raw_references": 189,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r12afc8ec346c453f",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r866d093c3c244339",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3c9e1f2c53b34273",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 9,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "refae9aca0a10467d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r90218d411d014544",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rd720601555fd4837",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbd8559ec5f544fe0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r054f74ab8ef04787",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r6829e91c18e14e86",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rd7829d17b7d0491d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc3480406ff5a4c51",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra2e36e766437440b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re879fa5097374a79",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r12114fbbbfbb448b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf9867df8b6b648af",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r28eef9c059f54613",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r92426986bc924adf",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s0218ead36cd44340",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 160,
+      "verified_raw_references": 325,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "sa2fd086ba73d4ef7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 153,
+      "verified_raw_references": 313,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "sbc4bb6e8713c40a6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 114,
+      "verified_raw_references": 239,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3646dd74f5a64334",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 21,
+      "verified_raw_references": 33,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re2d82b1ecd644f74",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3549e236187349c7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbc592e72a2984e3c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 19,
+      "verified_raw_references": 22,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rddc40f10a4974f0d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rd0e0ee6126714943",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 16,
+      "verified_raw_references": 19,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r4d5d0324c45947c0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 15,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf13043f1517d4b4a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r2a37550ce6514387",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 13,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r6672edfcf4c94cc2",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 886,
+      "verified_raw_references": 892,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r85b7de8785864b16",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 12,
+      "verified_raw_references": 15,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r57cb4be8289844fd",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rdf97424d9a3544d4",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 27,
+      "verified_raw_references": 47,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r11e4ae1727914eb4",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 92,
+      "verified_raw_references": 180,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "redd1f9af5a59414e",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "raf7ee2516e9142da",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 12,
+      "verified_raw_references": 16,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r92eb708c97e84610",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 25,
+      "verified_raw_references": 34,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rd8231a9748b94056",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 14,
+      "verified_raw_references": 17,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r93064188af5b4e94",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3bb46f773bea4eef",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r6e2bb40730934d0a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rb7a21e71bdb64429",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rb1bb68f1627a4f06",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r653df8d801394d02",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 9,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rb291620e15a94531",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3d79b290a5da4c9b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc61012b4f1fa4b15",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r891d0fe80c154cef",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r76610c10631243c1",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rdb4390f203ac47f1",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf7dca93f2d6d40f6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rd49f881e3dbf480e",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r84734371759b4458",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf33d32cbbf5d41d2",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rabd581d9b57e413f",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 21,
+      "verified_raw_references": 33,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf1c342c56376459d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r75571c00455547a0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r798e6cea58f84df6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 19,
+      "verified_raw_references": 22,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rfd48a879cbad4abb",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 16,
+      "verified_raw_references": 19,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r8cac21ede79f4af2",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 886,
+      "verified_raw_references": 892,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf8a2d3e47c0b4cb7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 15,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1cb23557eb6c49a0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3dd69d1c58864c29",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 13,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r41b580847cb24385",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 27,
+      "verified_raw_references": 47,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra79139f5825340b2",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 92,
+      "verified_raw_references": 180,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r944045d0163541eb",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rcebcfb2f78c648bf",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 12,
+      "verified_raw_references": 16,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r2c9232664c514b25",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r55902b51d2d54318",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 14,
+      "verified_raw_references": 17,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbae2344af8694bb5",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 25,
+      "verified_raw_references": 34,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "se9a42798402948b0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 160,
+      "verified_raw_references": 325,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "sf5342a4f2de64faf",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 153,
+      "verified_raw_references": 313,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s96f2976c9846464b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 114,
+      "verified_raw_references": 239,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r200c1572ef0d4791",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbfef073fc1d74964",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 13,
+      "verified_raw_references": 26,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0d8ede86dc604ffd",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r9dd5748051f04e65",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r2d5204ebb3cb4efc",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rfad3f172dd4f4bfa",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r936b222bbc254ba0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r2a72925a5c104f53",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf684a48cbdb1407a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra89c7f926a33488b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r14ba1facd42e4089",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r98428188ac0a4846",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra25da186f5d14106",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf48404cdfcbf4524",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r9e36b79299e4468c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r62c8201417e6451a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r44c569bed6914698",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0bb27f17ae884fa0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc9d7be4ade2d4b09",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 13,
+      "verified_raw_references": 26,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r7c6af311cb0f4934",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1f6784b6dd734fa5",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r8b5715e01473445c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1bbba2ff24fe40b7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rab99a07ec4b44869",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r2ad19618390b4199",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r234858f65aee4868",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r9f9c678591b24f04",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r83183926855d45ca",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3800ddfe201c4129",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r8dd758375486432b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re9f1c77ee5e04001",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra484c89b310d4cbb",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rfbe73a627bf9437b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc80e4a908fc74f46",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r36d2d420454144ab",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf690349429074be5",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 13,
+      "verified_raw_references": 26,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r02a58552fd9b4253",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re50f892b56404242",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra45d18a907654cfa",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3ddad7888ccf46f6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r13ffb050b0ef4a81",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc481b3a9a2c94a01",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r188cac58669a423a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r44a7ae52de784bac",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re9adf8dfcdf54ba6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0f7e80b9844e4e5d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rec6911efcfa04ebb",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r7b81325be5dd4450",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1c9f2c060ffb4028",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re24a59694d5644c9",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r40310d0d45ef44af",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r628264be20074833",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r6adee640741341c3",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 100,
+      "verified_raw_references": 190,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r7a2969aad7bc48ec",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rfafff4207e5e4147",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r25b7d786ae5449ab",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 9,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rd86c3814fd4245b7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re205f6c3bb314ac6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rac331a04978f4f23",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re4ffb347b24e4ea7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r552355678e4b4b34",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1722aa8617a14cc6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r7ec517226143479b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rdcde10056b9340c5",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbd27ede0f98c4d74",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1f1787b358c2494e",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r62ef0f886d6743da",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r869addd0bec648d7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r8bca19da330b4aea",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r91fe434127d34912",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0c346b89487f45ca",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r12434fa29c9449fd",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 100,
+      "verified_raw_references": 190,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r371a18c556b84b48",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1e4c93b96bfe471d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re8a4e198b34a4879",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 9,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r53bb5d3d04d74c6b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r846ed57a59ce4899",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbcb5b589c3074dd3",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r6620535c2bbd4d6b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rba26967c03194bd7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0d47e936a7034b70",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r8a248c4c10884208",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r73f632c4e0264da9",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r28fb6a22be4247f3",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r07e1fb9aff8e47d3",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r85bb8ba1156547f3",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r00217ae0e4234350",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rba3c0855095a4010",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf9633c8deb814ce1",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra575102f58114033",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re8cd14588f3f42bf",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 100,
+      "verified_raw_references": 190,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ree5addd31987475f",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r09961e69bdf94c96",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r4a1169c76a1e418e",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 9,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r15ad69cd68944a62",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r2c7f70b38a0946b9",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r792cfd2cba434702",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc6566499cbb04675",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf4d4b218ca724673",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r4997623febc94c54",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r878c6bcf1aee4fcd",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbc44020f57654ff1",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rec47acaa2a5344f2",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf6abf3324ce24cf3",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rdaa0446636044909",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0cd0cb1b81ae45f7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra3353923ff274250",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r050fd200e2c543c6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "red65b56b322b4b1d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 21,
+      "verified_raw_references": 33,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r517e40436ac64782",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc872b118003f4434",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra148383cec8a42c7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 19,
+      "verified_raw_references": 22,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra526c65b03c34c57",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 16,
+      "verified_raw_references": 19,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r338840dcb7fa4de1",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 886,
+      "verified_raw_references": 892,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1ef0fe56787d48a5",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 15,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r72dc5000508e4739",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r09f7a17aab5e4367",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 13,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r55a667ea47854b7c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf6333f038ea5463e",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 27,
+      "verified_raw_references": 47,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0ae040260bbc4093",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 92,
+      "verified_raw_references": 180,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r5828151c96a5460f",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r696acfb1081c41f0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 12,
+      "verified_raw_references": 16,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r8c56bb5e28c54d17",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rd62ac33bc72f4dd9",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 14,
+      "verified_raw_references": 17,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r9ace8d0979eb4cde",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 25,
+      "verified_raw_references": 34,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r5a6f2b1d2be84076",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 21,
+      "verified_raw_references": 33,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rdbb6a7d5e1c94a10",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r395de69d658c4068",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r81ae3b97d26c4c1b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 19,
+      "verified_raw_references": 22,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r590e160cfd1d4a7e",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 16,
+      "verified_raw_references": 19,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r2617048cdc794f06",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 886,
+      "verified_raw_references": 892,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r89e6ff74e80a4295",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 15,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rb66d5b9e33f24924",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rfca506541bc04738",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 13,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r086bdf194d434db6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0a216c2fd2674fbf",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 27,
+      "verified_raw_references": 47,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3a35d8c8ccc149fc",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 92,
+      "verified_raw_references": 180,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r91a21210c4fc46e4",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r4f6ce70b3c0d4e21",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 12,
+      "verified_raw_references": 16,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra3f4ce0fc5b64265",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r6537e66a3f574c3c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 14,
+      "verified_raw_references": 17,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rba11c1db39f94c96",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 25,
+      "verified_raw_references": 34,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc6869377372444c0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 21,
+      "verified_raw_references": 33,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rdadbdd3511304fa7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "red6d3522670f4d38",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf54c9f897ee8493c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 19,
+      "verified_raw_references": 22,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r215652bbe3d44ede",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 16,
+      "verified_raw_references": 19,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r3833f181732c48c5",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 886,
+      "verified_raw_references": 892,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rcd4b7d289d024ff1",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 15,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r5a109c9cffcb4f9b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re60511dabfb748dd",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 13,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc449d33b2a154239",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rfb85222077a3443f",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 27,
+      "verified_raw_references": 47,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf2f85b0a1c2b47c1",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 92,
+      "verified_raw_references": 180,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbf43e8b60eea42eb",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re726b95525fc4f07",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 12,
+      "verified_raw_references": 16,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r9c33d2f9729445c4",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r4b8cd7a5a3e64075",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 14,
+      "verified_raw_references": 17,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rf39eb08af57342bd",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 25,
+      "verified_raw_references": 34,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s6e75ca9421ac44a6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 160,
+      "verified_raw_references": 325,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s6643a117b2e247b4",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 153,
+      "verified_raw_references": 313,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s404d3c790f6040f1",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 114,
+      "verified_raw_references": 239,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "se58f703693024c81",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 160,
+      "verified_raw_references": 325,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s98c4367f16a84075",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 153,
+      "verified_raw_references": 313,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "saeb9f5d0ad8f4372",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 114,
+      "verified_raw_references": 239,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "sd8059f908a65490d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 160,
+      "verified_raw_references": 325,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s57548e35035447b6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 153,
+      "verified_raw_references": 313,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s2d930d80733f4225",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 114,
+      "verified_raw_references": 239,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rdc623d9b53aa4357",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "raf061922e82c47cd",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 13,
+      "verified_raw_references": 26,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r48ab247d344341ab",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "raed627565ab14e52",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r8ad55699ee6d4b6e",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r079dacb7a5634d1d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbfc99e609ecc4263",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r554032dc4b394cb4",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r96d3cffa5da6448b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rb85659f8b7534461",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 8,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r07f946ce1279413e",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r80e584f6a7394204",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r8fbc6fc11229401a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc8195c5f3f234657",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0d10430801224458",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r19d5936dac364991",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r41c075c569f84b7a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 5,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ree8a8c31ad5e4945",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r9f234948fbbb4e2b",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 100,
+      "verified_raw_references": 190,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r12073e7328554bcf",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc2fabe4598ae41d9",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r685d6ac2a3804def",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 9,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r0dbd4d32e017400c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 4,
+      "verified_raw_references": 7,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r24330536f7654116",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r5cd63a7b09d7400c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r77315c477ec24932",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re85c943d2d9a41a6",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rcce2c2c0ca024794",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 6,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r4610c674f8314dcd",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rbd5b58cb8f024b2a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r5c7e93b84a2c4173",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 7,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rcb0b820d603943c5",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r1fec1b7c25df4bf1",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 5,
+      "verified_raw_references": 10,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rfee8f59d16a8462a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 2,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r204f4b9a2a144271",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 6,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra6a4f897dc3c401d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 1,
+      "verified_raw_references": 2,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rb134954b5ed54237",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 21,
+      "verified_raw_references": 33,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rcddf17dd47b941e5",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ra1e375abdd594b1c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc370640e00cf4cf7",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 19,
+      "verified_raw_references": 22,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "ree795e846cba461c",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 16,
+      "verified_raw_references": 19,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rc2a1f94b359f4ced",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 886,
+      "verified_raw_references": 892,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rba69f0f0525d496d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 15,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r239482d2f8704698",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 3,
+      "verified_raw_references": 4,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "re05d7af54a1b4582",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 13,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rda33711c90e74f32",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r659a596330274f89",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 27,
+      "verified_raw_references": 47,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r4d85c93b40e44ef5",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 92,
+      "verified_raw_references": 180,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r314791c10372432d",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 9,
+      "verified_raw_references": 11,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "rfdf0e027581046aa",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 12,
+      "verified_raw_references": 16,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r2e4525a52cc942d0",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 11,
+      "verified_raw_references": 14,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r27215295546a450a",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 14,
+      "verified_raw_references": 17,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r82713c0f946e4b77",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 25,
+      "verified_raw_references": 34,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "se71a3de50e174274",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 160,
+      "verified_raw_references": 325,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s283489114f6d499f",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 153,
+      "verified_raw_references": 313,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "s2ec5765833cb4f8f",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 114,
+      "verified_raw_references": 239,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    },
+    {
+      "run_id": "r42ba60bee8a44727",
+      "status": "pass",
+      "core_connected_components": 1,
+      "verified_core_events": 10,
+      "verified_raw_references": 12,
+      "explicit_supervision_fields_in_features": 0,
+      "scope": "structural and raw-evidence audit; not independent semantic ground truth"
+    }
+  ],
+  "excluded_attempts": [
+    {
+      "run_id": "ra559e33a672c408e",
+      "dataset": "atomic_wave2_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "rdae163fe8a0e41cc",
+      "dataset": "atomic_wave3_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "ra265b3abfa9d45ee",
+      "dataset": "atomic_wave3_extension_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "raaa3da93739f453d",
+      "dataset": "atomic_wave3_extension_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r5113573db24b4c44",
+      "dataset": "atomic_wave3_extension_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r216cf65c207d48c3",
+      "dataset": "atomic_wave3_extension_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r837c2777a0584364",
+      "dataset": "atomic_wave3_extension_v1",
+      "status": "rejected_quality"
+    },
+    {
+      "run_id": "r323c6c84151a442a",
+      "dataset": "atomic_wave3_extension_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r0034e0e48db94e31",
+      "dataset": "atomic_wave3_extension_retry_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r613ac779cf9e4c59",
+      "dataset": "atomic_wave3_extension_retry_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "rac7f28ddcbf24dce",
+      "dataset": "atomic_wave3_extension_retry_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r04b2fd9ca9114458",
+      "dataset": "atomic_wave3_extension_retry_v2",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r69d267aeb9e44044",
+      "dataset": "atomic_wave3_extension_retry_v2",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r68ca1a0c6c624948",
+      "dataset": "atomic_wave3_extension_retry_v3",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "rd061642112d94dd6",
+      "dataset": "atomic_singleton_repeat_wave2_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r3416e737b3df4fda",
+      "dataset": "atomic_singleton_repeat_wave2_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r9ed071cbe4804e9b",
+      "dataset": "atomic_singleton_repeat_wave3_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "rd7128251eeba40b7",
+      "dataset": "atomic_singleton_repeat_wave3_v1",
+      "status": "rejected_capture"
+    },
+    {
+      "run_id": "r2a2978c5670b4b8b",
+      "dataset": "atomic_scale_env_v2_wave3_r3",
+      "status": "rejected_quality"
+    },
+    {
+      "run_id": "red89d17385784409",
+      "dataset": "atomic_scale_env_v2_wave3_r3",
+      "status": "rejected_quality"
+    },
+    {
+      "run_id": "ra50c66d73d224832",
+      "dataset": "atomic_scale_env_v2_wave3_r3",
+      "status": "rejected_quality"
+    },
+    {
+      "run_id": "r070050be2a8d496c",
+      "dataset": "atomic_scale_env_v1_wave3_r1",
+      "status": "rejected_quality"
+    }
+  ],
+  "shared_export_code_sha256": {
+    "atomic_build.py": "2ef6bd3168ce42da3f72b6c4e77e3085ec7c98c9b35f16471a5a60870da0606b",
+    "atomic_events.py": "cd2c3b2787b4867ce7897efedbbb8dd92e71f81c47c0c3ae805ca4f05450b7fc",
+    "ebpf_decode.py": "fa766a84e40a867d5a4e4ece4bb0ec1d6858e3134bd84828f82b9f643f9f0086",
+    "atomic_core_wave2.py": "3b2c150dd756d9add92b7ba06a62b70cb4bf01ddbe7b47f24390ada140313e1d",
+    "atomic_core_wave3.py": "1605cb15d89ac267b780f038fc4cf1fbdcd7b80a92608f8f4c7ccd2970463a09",
+    "ssh_build.py": "75640cb37938d85f6f600899979389f2c03bba76c3b517f64165e2f017f7c38a"
+  }
+}

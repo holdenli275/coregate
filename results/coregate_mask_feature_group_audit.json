@@ -1,0 +1,631 @@
+{
+  "protocol": "coregate_mask_feature_group_audit_v1",
+  "classes": 45,
+  "groups": {
+    "mask_cardinality_only": {
+      "feature_count": 6,
+      "features": [
+        "num_edges",
+        "num_nodes",
+        "num_positive_edges",
+        "num_positive_mask_nodes",
+        "positive_edge_ratio",
+        "positive_ratio"
+      ],
+      "accuracy": {
+        "mean": 0.34632482803495074,
+        "std_ddof1": 0.0
+      },
+      "macro_f1": {
+        "mean": 0.3338649935725959,
+        "std_ddof1": 0.0
+      },
+      "folds": [
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.32727272727272727,
+          "macro_f1": 0.32974658869395707
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.3333333333333333,
+          "macro_f1": 0.3448165869218501
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.3496932515337423,
+          "macro_f1": 0.35005291005291006
+        },
+        {
+          "seed": 20260921,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.375,
+          "macro_f1": 0.3108438886216664
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.32727272727272727,
+          "macro_f1": 0.32974658869395707
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.3333333333333333,
+          "macro_f1": 0.3448165869218501
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.3496932515337423,
+          "macro_f1": 0.35005291005291006
+        },
+        {
+          "seed": 20260922,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.375,
+          "macro_f1": 0.3108438886216664
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.32727272727272727,
+          "macro_f1": 0.32974658869395707
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.3333333333333333,
+          "macro_f1": 0.3448165869218501
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.3496932515337423,
+          "macro_f1": 0.35005291005291006
+        },
+        {
+          "seed": 20260923,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.375,
+          "macro_f1": 0.3108438886216664
+        }
+      ]
+    },
+    "node_type_counts": {
+      "feature_count": 16,
+      "features": [
+        "num_file_nodes",
+        "num_nodes",
+        "num_pipe_nodes",
+        "num_positive_mask_nodes",
+        "num_process_nodes",
+        "num_socket_nodes",
+        "positive_command_count",
+        "positive_file_count",
+        "positive_file_ratio",
+        "positive_pipe_count",
+        "positive_pipe_ratio",
+        "positive_process_count",
+        "positive_process_ratio",
+        "positive_ratio",
+        "positive_socket_count",
+        "positive_socket_ratio"
+      ],
+      "accuracy": {
+        "mean": 0.6197610047303299,
+        "std_ddof1": 0.0
+      },
+      "macro_f1": {
+        "mean": 0.6096657182686593,
+        "std_ddof1": 0.0
+      },
+      "folds": [
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.6363636363636364,
+          "macro_f1": 0.6361823361823362
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.6296296296296297,
+          "macro_f1": 0.627913752913753
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.5766871165644172,
+          "macro_f1": 0.5954415954415954
+        },
+        {
+          "seed": 20260921,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.6363636363636364,
+          "macro_f1": 0.5791251885369532
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.6363636363636364,
+          "macro_f1": 0.6361823361823362
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.6296296296296297,
+          "macro_f1": 0.627913752913753
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.5766871165644172,
+          "macro_f1": 0.5954415954415954
+        },
+        {
+          "seed": 20260922,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.6363636363636364,
+          "macro_f1": 0.5791251885369532
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.6363636363636364,
+          "macro_f1": 0.6361823361823362
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.6296296296296297,
+          "macro_f1": 0.627913752913753
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.5766871165644172,
+          "macro_f1": 0.5954415954415954
+        },
+        {
+          "seed": 20260923,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.6363636363636364,
+          "macro_f1": 0.5791251885369532
+        }
+      ]
+    },
+    "positive_node_mask_types": {
+      "feature_count": 10,
+      "features": [
+        "positive_command_count",
+        "positive_file_count",
+        "positive_file_ratio",
+        "positive_pipe_count",
+        "positive_pipe_ratio",
+        "positive_process_count",
+        "positive_process_ratio",
+        "positive_ratio",
+        "positive_socket_count",
+        "positive_socket_ratio"
+      ],
+      "accuracy": {
+        "mean": 0.5578933506847618,
+        "std_ddof1": 0.0
+      },
+      "macro_f1": {
+        "mean": 0.5424428485457897,
+        "std_ddof1": 0.0
+      },
+      "folds": [
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.5636363636363636,
+          "macro_f1": 0.5621082621082621
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.5555555555555556,
+          "macro_f1": 0.5521561771561772
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.5214723926380368,
+          "macro_f1": 0.5250712250712251
+        },
+        {
+          "seed": 20260921,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.5909090909090909,
+          "macro_f1": 0.5304357298474945
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.5636363636363636,
+          "macro_f1": 0.5621082621082621
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.5555555555555556,
+          "macro_f1": 0.5521561771561772
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.5214723926380368,
+          "macro_f1": 0.5250712250712251
+        },
+        {
+          "seed": 20260922,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.5909090909090909,
+          "macro_f1": 0.5304357298474945
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.5636363636363636,
+          "macro_f1": 0.5621082621082621
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.5555555555555556,
+          "macro_f1": 0.5521561771561772
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.5214723926380368,
+          "macro_f1": 0.5250712250712251
+        },
+        {
+          "seed": 20260923,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.5909090909090909,
+          "macro_f1": 0.5304357298474945
+        }
+      ]
+    },
+    "positive_edge_operations": {
+      "feature_count": 64,
+      "features": [
+        "positive_edge_operation_accept",
+        "positive_edge_operation_accept4",
+        "positive_edge_operation_chdir",
+        "positive_edge_operation_chmod",
+        "positive_edge_operation_chown",
+        "positive_edge_operation_close",
+        "positive_edge_operation_connect",
+        "positive_edge_operation_connection_endpoint",
+        "positive_edge_operation_creat",
+        "positive_edge_operation_dup",
+        "positive_edge_operation_dup2",
+        "positive_edge_operation_execve",
+        "positive_edge_operation_fchdir",
+        "positive_edge_operation_fchmod",
+        "positive_edge_operation_fchmodat",
+        "positive_edge_operation_fchown",
+        "positive_edge_operation_fcntl",
+        "positive_edge_operation_fdatasync",
+        "positive_edge_operation_fstat",
+        "positive_edge_operation_fsync",
+        "positive_edge_operation_ftruncate",
+        "positive_edge_operation_getdents64",
+        "positive_edge_operation_link",
+        "positive_edge_operation_lseek",
+        "positive_edge_operation_mkdir",
+        "positive_edge_operation_mmap",
+        "positive_edge_operation_newfstatat",
+        "positive_edge_operation_openat",
+        "positive_edge_operation_openat2",
+        "positive_edge_operation_prctl",
+        "positive_edge_operation_pread64",
+        "positive_edge_operation_read",
+        "positive_edge_operation_recvfrom",
+        "positive_edge_operation_recvmsg",
+        "positive_edge_operation_rename",
+        "positive_edge_operation_renameat2",
+        "positive_edge_operation_sendto",
+        "positive_edge_operation_setgid",
+        "positive_edge_operation_setregid",
+        "positive_edge_operation_setresgid",
+        "positive_edge_operation_setresuid",
+        "positive_edge_operation_setreuid",
+        "positive_edge_operation_setuid",
+        "positive_edge_operation_socket",
+        "positive_edge_operation_spawn",
+        "positive_edge_operation_statx",
+        "positive_edge_operation_symlink",
+        "positive_edge_operation_symlinkat",
+        "positive_edge_operation_syscall_137",
+        "positive_edge_operation_syscall_138",
+        "positive_edge_operation_syscall_161",
+        "positive_edge_operation_syscall_21",
+        "positive_edge_operation_syscall_260",
+        "positive_edge_operation_syscall_267",
+        "positive_edge_operation_syscall_439",
+        "positive_edge_operation_syscall_48",
+        "positive_edge_operation_syscall_49",
+        "positive_edge_operation_syscall_50",
+        "positive_edge_operation_syscall_73",
+        "positive_edge_operation_syscall_89",
+        "positive_edge_operation_unlink",
+        "positive_edge_operation_unlinkat",
+        "positive_edge_operation_utimensat",
+        "positive_edge_operation_write"
+      ],
+      "accuracy": {
+        "mean": 0.8001651225961042,
+        "std_ddof1": 0.0
+      },
+      "macro_f1": {
+        "mean": 0.7623821548821549,
+        "std_ddof1": 0.0
+      },
+      "folds": [
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.8,
+          "macro_f1": 0.7674074074074073
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.7962962962962963,
+          "macro_f1": 0.7621212121212121
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.7975460122699386,
+          "macro_f1": 0.7674074074074073
+        },
+        {
+          "seed": 20260921,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.8068181818181818,
+          "macro_f1": 0.7525925925925926
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.8,
+          "macro_f1": 0.7674074074074073
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.7962962962962963,
+          "macro_f1": 0.7621212121212121
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.7975460122699386,
+          "macro_f1": 0.7674074074074073
+        },
+        {
+          "seed": 20260922,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.8068181818181818,
+          "macro_f1": 0.7525925925925926
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.8,
+          "macro_f1": 0.7674074074074073
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.7962962962962963,
+          "macro_f1": 0.7621212121212121
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.7975460122699386,
+          "macro_f1": 0.7674074074074073
+        },
+        {
+          "seed": 20260923,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.8068181818181818,
+          "macro_f1": 0.7525925925925926
+        }
+      ]
+    },
+    "all": {
+      "feature_count": 83,
+      "features": [
+        "num_edges",
+        "num_file_nodes",
+        "num_nodes",
+        "num_pipe_nodes",
+        "num_positive_edges",
+        "num_positive_mask_nodes",
+        "num_process_nodes",
+        "num_socket_nodes",
+        "positive_command_count",
+        "positive_edge_operation_accept",
+        "positive_edge_operation_accept4",
+        "positive_edge_operation_chdir",
+        "positive_edge_operation_chmod",
+        "positive_edge_operation_chown",
+        "positive_edge_operation_close",
+        "positive_edge_operation_connect",
+        "positive_edge_operation_connection_endpoint",
+        "positive_edge_operation_creat",
+        "positive_edge_operation_dup",
+        "positive_edge_operation_dup2",
+        "positive_edge_operation_execve",
+        "positive_edge_operation_fchdir",
+        "positive_edge_operation_fchmod",
+        "positive_edge_operation_fchmodat",
+        "positive_edge_operation_fchown",
+        "positive_edge_operation_fcntl",
+        "positive_edge_operation_fdatasync",
+        "positive_edge_operation_fstat",
+        "positive_edge_operation_fsync",
+        "positive_edge_operation_ftruncate",
+        "positive_edge_operation_getdents64",
+        "positive_edge_operation_link",
+        "positive_edge_operation_lseek",
+        "positive_edge_operation_mkdir",
+        "positive_edge_operation_mmap",
+        "positive_edge_operation_newfstatat",
+        "positive_edge_operation_openat",
+        "positive_edge_operation_openat2",
+        "positive_edge_operation_prctl",
+        "positive_edge_operation_pread64",
+        "positive_edge_operation_read",
+        "positive_edge_operation_recvfrom",
+        "positive_edge_operation_recvmsg",
+        "positive_edge_operation_rename",
+        "positive_edge_operation_renameat2",
+        "positive_edge_operation_sendto",
+        "positive_edge_operation_setgid",
+        "positive_edge_operation_setregid",
+        "positive_edge_operation_setresgid",
+        "positive_edge_operation_setresuid",
+        "positive_edge_operation_setreuid",
+        "positive_edge_operation_setuid",
+        "positive_edge_operation_socket",
+        "positive_edge_operation_spawn",
+        "positive_edge_operation_statx",
+        "positive_edge_operation_symlink",
+        "positive_edge_operation_symlinkat",
+        "positive_edge_operation_syscall_137",
+        "positive_edge_operation_syscall_138",
+        "positive_edge_operation_syscall_161",
+        "positive_edge_operation_syscall_21",
+        "positive_edge_operation_syscall_260",
+        "positive_edge_operation_syscall_267",
+        "positive_edge_operation_syscall_439",
+        "positive_edge_operation_syscall_48",
+        "positive_edge_operation_syscall_49",
+        "positive_edge_operation_syscall_50",
+        "positive_edge_operation_syscall_73",
+        "positive_edge_operation_syscall_89",
+        "positive_edge_operation_unlink",
+        "positive_edge_operation_unlinkat",
+        "positive_edge_operation_utimensat",
+        "positive_edge_operation_write",
+        "positive_edge_ratio",
+        "positive_file_count",
+        "positive_file_ratio",
+        "positive_pipe_count",
+        "positive_pipe_ratio",
+        "positive_process_count",
+        "positive_process_ratio",
+        "positive_ratio",
+        "positive_socket_count",
+        "positive_socket_ratio"
+      ],
+      "accuracy": {
+        "mean": 0.9140729896097994,
+        "std_ddof1": 0.0
+      },
+      "macro_f1": {
+        "mean": 0.913611111111111,
+        "std_ddof1": 0.0
+      },
+      "folds": [
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.9090909090909091,
+          "macro_f1": 0.9185185185185184
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.9074074074074074,
+          "macro_f1": 0.9166666666666665
+        },
+        {
+          "seed": 20260921,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.9079754601226994,
+          "macro_f1": 0.9185185185185184
+        },
+        {
+          "seed": 20260921,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.9318181818181818,
+          "macro_f1": 0.9007407407407407
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.9090909090909091,
+          "macro_f1": 0.9185185185185184
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.9074074074074074,
+          "macro_f1": 0.9166666666666665
+        },
+        {
+          "seed": 20260922,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.9079754601226994,
+          "macro_f1": 0.9185185185185184
+        },
+        {
+          "seed": 20260922,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.9318181818181818,
+          "macro_f1": 0.9007407407407407
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_template_v1",
+          "accuracy": 0.9090909090909091,
+          "macro_f1": 0.9185185185185184
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v1",
+          "accuracy": 0.9074074074074074,
+          "macro_f1": 0.9166666666666665
+        },
+        {
+          "seed": 20260923,
+          "heldout": "env_ubuntu22_v2",
+          "accuracy": 0.9079754601226994,
+          "macro_f1": 0.9185185185185184
+        },
+        {
+          "seed": 20260923,
+          "heldout": "single_host_ubuntu22_container",
+          "accuracy": 0.9318181818181818,
+          "macro_f1": 0.9007407407407407
+        }
+      ]
+    }
+  },
+  "folds": [
+    "env_ubuntu22_template_v1",
+    "env_ubuntu22_v1",
+    "env_ubuntu22_v2",
+    "single_host_ubuntu22_container"
+  ],
+  "seeds": [
+    20260921,
+    20260922,
+    20260923
+  ]
+}

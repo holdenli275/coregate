@@ -1,0 +1,219 @@
+{
+  "protocol": "coregate_tgn_leave_one_environment_out_v1",
+  "catalog": "data/linux_telemetry/reference_candidates_template_v2/catalog.json",
+  "view": "Raw_Graph",
+  "exclude_classes": [],
+  "environments": [
+    "env_ubuntu22_template_v1",
+    "env_ubuntu22_v1",
+    "env_ubuntu22_v2",
+    "single_host_ubuntu22_container"
+  ],
+  "results": [
+    {
+      "holdout_environment": "env_ubuntu22_template_v1",
+      "seed": 20260923,
+      "classes": 45,
+      "train_samples": 305,
+      "test_samples": 55,
+      "test_class_count": 45,
+      "training_protocol": "episode_tgn",
+      "core_pool_weight": 0.0,
+      "core_gate_weight": 0.0,
+      "pooling": "ordinary",
+      "test_core_mask": "none",
+      "train_core_mask": "evidence",
+      "episode_query_samples": 260,
+      "similarity_prototype": "support",
+      "classifier_scaler": "standard",
+      "last_loss": 3.7213704586029053,
+      "last_loss_parts": {
+        "ce": 2.092799425125122,
+        "metric_ce": 3.217237710952759,
+        "margin": 0.1995205283164978,
+        "core_gate": 0.0
+      },
+      "baseline": {
+        "accuracy": 0.9272727272727272,
+        "macro_f1": 0.9548148148148147
+      },
+      "embedding_only": {
+        "accuracy": 0.9272727272727272,
+        "macro_f1": 0.9548148148148147
+      },
+      "augmentation": {
+        "mode": "none",
+        "synthetic_samples": 0
+      },
+      "trainable_parameters": 225839,
+      "reference_train_core_positive_nodes": 7359,
+      "train_core_positive_nodes": 7359,
+      "train_core_positive_count_max_abs_delta": 0,
+      "test_core_node_mask_sum_after_clear": 0,
+      "test_core_edge_mask_sum_after_clear": 0,
+      "test_mask_leakage_check": true,
+      "train_graph_hash": "b8f97a126635de18",
+      "test_graph_hash": "1b50f7adc69aef67",
+      "support_graph_hash": "aaaae2dfd5f70584",
+      "train_graph_count": 305,
+      "test_graph_count": 55,
+      "support_graph_count": 45
+    },
+    {
+      "holdout_environment": "env_ubuntu22_v1",
+      "seed": 20260924,
+      "classes": 45,
+      "train_samples": 306,
+      "test_samples": 54,
+      "test_class_count": 44,
+      "training_protocol": "episode_tgn",
+      "core_pool_weight": 0.0,
+      "core_gate_weight": 0.0,
+      "pooling": "ordinary",
+      "test_core_mask": "none",
+      "train_core_mask": "evidence",
+      "episode_query_samples": 261,
+      "similarity_prototype": "support",
+      "classifier_scaler": "standard",
+      "last_loss": 4.745345592498779,
+      "last_loss_parts": {
+        "ce": 3.243218183517456,
+        "metric_ce": 2.965308427810669,
+        "margin": 0.1947304606437683,
+        "core_gate": 0.0
+      },
+      "baseline": {
+        "accuracy": 0.9259259259259259,
+        "macro_f1": 0.9537878787878786
+      },
+      "embedding_only": {
+        "accuracy": 0.9259259259259259,
+        "macro_f1": 0.9537878787878786
+      },
+      "augmentation": {
+        "mode": "none",
+        "synthetic_samples": 0
+      },
+      "trainable_parameters": 225839,
+      "reference_train_core_positive_nodes": 7373,
+      "train_core_positive_nodes": 7373,
+      "train_core_positive_count_max_abs_delta": 0,
+      "test_core_node_mask_sum_after_clear": 0,
+      "test_core_edge_mask_sum_after_clear": 0,
+      "test_mask_leakage_check": true,
+      "train_graph_hash": "8d19b32384a8f8c4",
+      "test_graph_hash": "66d66b092e1d21f7",
+      "support_graph_hash": "906a2ba4ec7c138c",
+      "train_graph_count": 306,
+      "test_graph_count": 54,
+      "support_graph_count": 45
+    },
+    {
+      "holdout_environment": "env_ubuntu22_v2",
+      "seed": 20260925,
+      "classes": 45,
+      "train_samples": 197,
+      "test_samples": 163,
+      "test_class_count": 45,
+      "training_protocol": "episode_tgn",
+      "core_pool_weight": 0.0,
+      "core_gate_weight": 0.0,
+      "pooling": "ordinary",
+      "test_core_mask": "none",
+      "train_core_mask": "evidence",
+      "episode_query_samples": 152,
+      "similarity_prototype": "support",
+      "classifier_scaler": "standard",
+      "last_loss": 4.3140869140625,
+      "last_loss_parts": {
+        "ce": 2.6532938480377197,
+        "metric_ce": 3.2798521518707275,
+        "margin": 0.20866715908050537,
+        "core_gate": 0.0
+      },
+      "baseline": {
+        "accuracy": 0.9263803680981595,
+        "macro_f1": 0.9548148148148147
+      },
+      "embedding_only": {
+        "accuracy": 0.9263803680981595,
+        "macro_f1": 0.9548148148148147
+      },
+      "augmentation": {
+        "mode": "none",
+        "synthetic_samples": 0
+      },
+      "trainable_parameters": 225839,
+      "reference_train_core_positive_nodes": 4892,
+      "train_core_positive_nodes": 4892,
+      "train_core_positive_count_max_abs_delta": 0,
+      "test_core_node_mask_sum_after_clear": 0,
+      "test_core_edge_mask_sum_after_clear": 0,
+      "test_mask_leakage_check": true,
+      "train_graph_hash": "aad352d1fd6ce428",
+      "test_graph_hash": "5942f7b459cb4357",
+      "support_graph_hash": "24229aa9509dc525",
+      "train_graph_count": 197,
+      "test_graph_count": 163,
+      "support_graph_count": 45
+    },
+    {
+      "holdout_environment": "single_host_ubuntu22_container",
+      "seed": 20260926,
+      "classes": 45,
+      "train_samples": 272,
+      "test_samples": 88,
+      "test_class_count": 45,
+      "training_protocol": "episode_tgn",
+      "core_pool_weight": 0.0,
+      "core_gate_weight": 0.0,
+      "pooling": "ordinary",
+      "test_core_mask": "none",
+      "train_core_mask": "evidence",
+      "episode_query_samples": 227,
+      "similarity_prototype": "support",
+      "classifier_scaler": "standard",
+      "last_loss": 4.049777984619141,
+      "last_loss_parts": {
+        "ce": 2.2477495670318604,
+        "metric_ce": 3.563622236251831,
+        "margin": 0.20217639207839966,
+        "core_gate": 0.0
+      },
+      "baseline": {
+        "accuracy": 0.9204545454545454,
+        "macro_f1": 0.8777777777777778
+      },
+      "embedding_only": {
+        "accuracy": 0.9204545454545454,
+        "macro_f1": 0.8777777777777778
+      },
+      "augmentation": {
+        "mode": "none",
+        "synthetic_samples": 0
+      },
+      "trainable_parameters": 225839,
+      "reference_train_core_positive_nodes": 6200,
+      "train_core_positive_nodes": 6200,
+      "train_core_positive_count_max_abs_delta": 0,
+      "test_core_node_mask_sum_after_clear": 0,
+      "test_core_edge_mask_sum_after_clear": 0,
+      "test_mask_leakage_check": true,
+      "train_graph_hash": "ad299b2b489502d7",
+      "test_graph_hash": "d7bb44bd868845c3",
+      "support_graph_hash": "a41d190f7848f5b5",
+      "train_graph_count": 272,
+      "test_graph_count": 88,
+      "support_graph_count": 45
+    }
+  ],
+  "mean_baseline": {
+    "accuracy": 0.9250083916878395,
+    "macro_f1": 0.9352988215488214
+  },
+  "limitations": [
+    "Environment groups are isolated container batches on one host, not independent hosts.",
+    "Core graphs use automatic evidence boundaries and have no independent manual gold.",
+    "Targets are automatic weak supervision, not independently validated attack evidence."
+  ]
+}

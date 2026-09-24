@@ -1,0 +1,19 @@
+{
+  "formal_evaluation_ready": false,
+  "reason": "Automatic evidence is retained, but independent manual gold is still zero.",
+  "subtechniques": 45,
+  "classes_without_two_templates": [],
+  "environment_groups": [
+    "env_ubuntu22_template_v1",
+    "env_ubuntu22_v1",
+    "env_ubuntu22_v2",
+    "single_host_ubuntu22_container"
+  ],
+  "leave_one_environment_out": [
+    "env_ubuntu22_template_v1",
+    "env_ubuntu22_v1",
+    "env_ubuntu22_v2",
+    "single_host_ubuntu22_container"
+  ],
+  "independent_manual_gold": 0
+}

@@ -1,0 +1,83 @@
+% ---------------------------------------------------------------------------
+% Artifact citation block for the CoreGate paper.
+%
+% CoreGate: Execution-Lineage Supervision for Attack Technique Recognition
+% under Environment Shift
+% Anonymous Authors (double-blind review copy)
+%
+% How to use this file
+%   1. Paste the two BibTeX entries below into paper/coregate_refs.bib, or into
+%      the camera-ready bibliography. They are camera-ready material: they name
+%      the GitHub owner and the Zenodo DOIs, so they must not appear in the
+%      review PDF.
+%   2. Replace the placeholders once they exist. In this review copy the owner is
+%      already the review account and Option A already carries the registered
+%      review link (/r/coregate-6342/), so only the DOI placeholders remain:
+%        XXXXXXX/YYYYYYY   -> the software / dataset Zenodo DOIs
+%   3. Paste exactly one data-availability paragraph into the paper: Option A
+%      while the submission is under double-blind review, Option B for the
+%      camera-ready.
+%   4. Cite the software with \cite{coregate2027artifact}. Do not cite the paper
+%      and the artifact with the same key.
+%
+% Option A is the only paragraph that may appear in the review PDF: it names no
+% author, no institution and no repository owner. Option A needs \usepackage{url}
+% (or hyperref) for \url{...}.
+%
+% The dataset DOI resolves only after acceptance: the paper states that code is
+% released publicly while the attack-emulation dataset follows acceptance.
+% ---------------------------------------------------------------------------
+
+% ---- paste into paper/coregate_refs.bib (camera-ready only) ---------------
+
+@software{coregate2027artifact,
+  title     = {{CoreGate}: Execution-Lineage Supervision for Attack Technique
+               Recognition under Environment Shift},
+  author    = {{Anonymous Authors}},
+  year      = {2027},
+  version   = {0.7},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.XXXXXXX},
+  url       = {https://github.com/holdenli275/coregate}
+}
+
+@misc{coregate2027dataset,
+  title     = {{CoreGate} {Linux} Telemetry Candidate Set (template v2)},
+  author    = {{Anonymous Authors}},
+  year      = {2027},
+  version   = {2.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.YYYYYYY},
+  note      = {360 labeled attack-emulation graphs over 45 {ATT\&CK}
+               sub-techniques plus 14 unlabeled entries; collected by the
+               authors by executing Atomic Red Team tests in a controlled
+               Linux lab. Released upon acceptance.}
+}
+
+% ---- paste into the paper -------------------------------------------------
+
+% Option A - double-blind review version. Use this while the submission is
+% anonymous. The link below is the registered review mirror; do not add the
+% GitHub owner, the Zenodo DOIs, or the artifact BibTeX entry to the review PDF,
+% because each of them identifies the authors.
+% Code and data availability. The implementation, the dataset catalog and the
+% released per-seed experiment outputs are available to reviewers at
+% \url{https://anonymous.4open.science/r/coregate-6342/}. The attack-emulation
+% dataset is a separate deposit and will be released publicly, together with the
+% code, upon acceptance.
+
+% Option B - camera-ready version. Replace the placeholders first. Every number
+% in the paper is reproducible from the released per-seed run JSONs without the
+% dataset.
+% Code and data availability. The implementation and the released experiment
+% outputs are publicly available at~\cite{coregate2027artifact}. The
+% attack-emulation dataset is a separate deposit and will be released upon
+% acceptance. Evidence boundaries are automatically extracted weak labels from
+% the collection journals, not independent manual annotation, so the catalog
+% documents a within-catalog recognition gain rather than a formal benchmark.
+
+% Option C - the sentence the submitted manuscript currently carries. It is
+% already author-free and stays valid if the venue forbids external links
+% during review.
+% Code and data availability. Code will be released publicly; the
+% attack-emulation dataset will follow upon acceptance.

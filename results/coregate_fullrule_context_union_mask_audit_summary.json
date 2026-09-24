@@ -1,0 +1,255 @@
+{
+  "protocol": "coregate_mask_only_label_leakage_audit_v2",
+  "catalog": "data/linux_telemetry/reference_candidates_template_v2/catalog.json",
+  "rows": 360,
+  "mask_variant": "context_union",
+  "lineage_mask_file": null,
+  "context_union_mask_file": "data/experiment_results/leave_one_env_v1/fullrule_context_union_masks.json",
+  "label_invariance_check": null,
+  "context_union_retains_full_rule": true,
+  "classes": 45,
+  "chance_accuracy": 0.022222222222222223,
+  "seeds": [
+    20260921,
+    20260922,
+    20260923
+  ],
+  "folds": [
+    "env_ubuntu22_template_v1",
+    "env_ubuntu22_v1",
+    "env_ubuntu22_v2",
+    "single_host_ubuntu22_container"
+  ],
+  "feature_names": [
+    "num_edges",
+    "num_file_nodes",
+    "num_nodes",
+    "num_pipe_nodes",
+    "num_positive_edges",
+    "num_positive_mask_nodes",
+    "num_process_nodes",
+    "num_socket_nodes",
+    "positive_command_count",
+    "positive_edge_operation_accept",
+    "positive_edge_operation_accept4",
+    "positive_edge_operation_chdir",
+    "positive_edge_operation_chmod",
+    "positive_edge_operation_chown",
+    "positive_edge_operation_close",
+    "positive_edge_operation_connect",
+    "positive_edge_operation_connection_endpoint",
+    "positive_edge_operation_creat",
+    "positive_edge_operation_dup",
+    "positive_edge_operation_dup2",
+    "positive_edge_operation_execve",
+    "positive_edge_operation_fchdir",
+    "positive_edge_operation_fchmod",
+    "positive_edge_operation_fchmodat",
+    "positive_edge_operation_fchown",
+    "positive_edge_operation_fcntl",
+    "positive_edge_operation_fdatasync",
+    "positive_edge_operation_fstat",
+    "positive_edge_operation_fsync",
+    "positive_edge_operation_ftruncate",
+    "positive_edge_operation_getdents64",
+    "positive_edge_operation_link",
+    "positive_edge_operation_lseek",
+    "positive_edge_operation_mkdir",
+    "positive_edge_operation_mmap",
+    "positive_edge_operation_newfstatat",
+    "positive_edge_operation_openat",
+    "positive_edge_operation_openat2",
+    "positive_edge_operation_prctl",
+    "positive_edge_operation_pread64",
+    "positive_edge_operation_read",
+    "positive_edge_operation_recvfrom",
+    "positive_edge_operation_recvmsg",
+    "positive_edge_operation_rename",
+    "positive_edge_operation_renameat2",
+    "positive_edge_operation_sendto",
+    "positive_edge_operation_setgid",
+    "positive_edge_operation_setregid",
+    "positive_edge_operation_setresgid",
+    "positive_edge_operation_setresuid",
+    "positive_edge_operation_setreuid",
+    "positive_edge_operation_setuid",
+    "positive_edge_operation_socket",
+    "positive_edge_operation_spawn",
+    "positive_edge_operation_statx",
+    "positive_edge_operation_symlink",
+    "positive_edge_operation_symlinkat",
+    "positive_edge_operation_syscall_137",
+    "positive_edge_operation_syscall_138",
+    "positive_edge_operation_syscall_161",
+    "positive_edge_operation_syscall_21",
+    "positive_edge_operation_syscall_260",
+    "positive_edge_operation_syscall_267",
+    "positive_edge_operation_syscall_439",
+    "positive_edge_operation_syscall_48",
+    "positive_edge_operation_syscall_49",
+    "positive_edge_operation_syscall_50",
+    "positive_edge_operation_syscall_73",
+    "positive_edge_operation_syscall_89",
+    "positive_edge_operation_unlink",
+    "positive_edge_operation_unlinkat",
+    "positive_edge_operation_utimensat",
+    "positive_edge_operation_write",
+    "positive_edge_ratio",
+    "positive_file_count",
+    "positive_file_ratio",
+    "positive_pipe_count",
+    "positive_pipe_ratio",
+    "positive_process_count",
+    "positive_process_ratio",
+    "positive_ratio",
+    "positive_socket_count",
+    "positive_socket_ratio"
+  ],
+  "feature_count": 83,
+  "features_use_embeddings": false,
+  "features_use_environment_id": false,
+  "results": [
+    {
+      "seed": 20260921,
+      "heldout": "env_ubuntu22_template_v1",
+      "n_train": 305,
+      "n_test": 55,
+      "accuracy": 0.9454545454545454,
+      "macro_f1": 0.9629629629629629
+    },
+    {
+      "seed": 20260921,
+      "heldout": "env_ubuntu22_v1",
+      "n_train": 306,
+      "n_test": 54,
+      "accuracy": 0.9444444444444444,
+      "macro_f1": 0.962121212121212
+    },
+    {
+      "seed": 20260921,
+      "heldout": "env_ubuntu22_v2",
+      "n_train": 197,
+      "n_test": 163,
+      "accuracy": 0.9263803680981595,
+      "macro_f1": 0.9481481481481481
+    },
+    {
+      "seed": 20260921,
+      "heldout": "single_host_ubuntu22_container",
+      "n_train": 272,
+      "n_test": 88,
+      "accuracy": 0.9318181818181818,
+      "macro_f1": 0.9007407407407407
+    },
+    {
+      "seed": 20260922,
+      "heldout": "env_ubuntu22_template_v1",
+      "n_train": 305,
+      "n_test": 55,
+      "accuracy": 0.9454545454545454,
+      "macro_f1": 0.9629629629629629
+    },
+    {
+      "seed": 20260922,
+      "heldout": "env_ubuntu22_v1",
+      "n_train": 306,
+      "n_test": 54,
+      "accuracy": 0.9444444444444444,
+      "macro_f1": 0.962121212121212
+    },
+    {
+      "seed": 20260922,
+      "heldout": "env_ubuntu22_v2",
+      "n_train": 197,
+      "n_test": 163,
+      "accuracy": 0.9263803680981595,
+      "macro_f1": 0.9481481481481481
+    },
+    {
+      "seed": 20260922,
+      "heldout": "single_host_ubuntu22_container",
+      "n_train": 272,
+      "n_test": 88,
+      "accuracy": 0.9318181818181818,
+      "macro_f1": 0.9007407407407407
+    },
+    {
+      "seed": 20260923,
+      "heldout": "env_ubuntu22_template_v1",
+      "n_train": 305,
+      "n_test": 55,
+      "accuracy": 0.9454545454545454,
+      "macro_f1": 0.9629629629629629
+    },
+    {
+      "seed": 20260923,
+      "heldout": "env_ubuntu22_v1",
+      "n_train": 306,
+      "n_test": 54,
+      "accuracy": 0.9444444444444444,
+      "macro_f1": 0.962121212121212
+    },
+    {
+      "seed": 20260923,
+      "heldout": "env_ubuntu22_v2",
+      "n_train": 197,
+      "n_test": 163,
+      "accuracy": 0.9263803680981595,
+      "macro_f1": 0.9481481481481481
+    },
+    {
+      "seed": 20260923,
+      "heldout": "single_host_ubuntu22_container",
+      "n_train": 272,
+      "n_test": 88,
+      "accuracy": 0.9318181818181818,
+      "macro_f1": 0.9007407407407407
+    }
+  ],
+  "summary": {
+    "accuracy": {
+      "mean": 0.9370243849538328,
+      "std_ddof1": 0.0,
+      "seed_means": [
+        0.9370243849538328,
+        0.9370243849538328,
+        0.9370243849538328
+      ]
+    },
+    "macro_f1": {
+      "mean": 0.9434932659932659,
+      "std_ddof1": 0.0,
+      "seed_means": [
+        0.9434932659932659,
+        0.9434932659932659,
+        0.9434932659932659
+      ]
+    }
+  },
+  "permutation": {
+    "n_permutations_per_seed_fold": 100,
+    "accuracy": {
+      "mean": 0.02042283821514394,
+      "std_ddof1": 0.0006452285188467683,
+      "seed_means": [
+        0.01983134127574311,
+        0.02032626236805685,
+        0.02111091100163186
+      ]
+    },
+    "macro_f1": {
+      "mean": 0.015737687723798837,
+      "std_ddof1": 0.0007209663915830809,
+      "seed_means": [
+        0.015089998581665248,
+        0.015608579075245741,
+        0.016514485514485516
+      ]
+    }
+  },
+  "limitations": [
+    "This audit excludes simple mask-statistic shortcuts; it cannot rule out all label information in richer mask structure.",
+    "The catalog has no command-line node type, so positive_command_count is zero; command information remains in process attributes and is not used.",
+    "Automatic evidence masks are weak labels pending independent annotation."
+  ]
+}

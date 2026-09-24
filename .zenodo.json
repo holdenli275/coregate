@@ -1,0 +1,31 @@
+{
+  "title": "CoreGate: Execution-Lineage Supervision for Attack Technique Recognition under Environment Shift",
+  "upload_type": "software",
+  "description": "<p>Reference implementation and released experiment artifacts for <strong>CoreGate</strong>, which converts process associations recorded in execution journals into training-only foreground supervision for attack-technique recognition. The targets require neither technique labels nor technique-specific rules, and inference reads only the observed graph.</p><p>The deposit contains the encoder and gated-readout training code, the locked four-fold three-seed leave-one-environment-out results (CoreGate-Lineage 95.92% accuracy / 95.44% macro-F1 vs. Ordinary 91.73% / 92.92%, +129 parameters), the learned-attention, shuffled-target and SAGPool controls, the joint environment/template holdout with edge-rank permutation controls, the template-disjoint and embedding-only classifier diagnostics, the process-only and context-union sensitivities, the three-view statistics audit, the target-deletion curve, and the dataset metadata and catalog.</p><p>The 360-graph attack-emulation dataset is a separate deposit and is released upon acceptance of the accompanying paper. Targets are automatically derived weak supervision rather than independently validated attack evidence, so the release documents a within-catalog recognition gain rather than causal or cross-host validation.</p>",
+  "creators": [
+    {
+      "name": "Anonymous Authors (double-blind review copy)"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "0.7",
+  "language": "eng",
+  "keywords": [
+    "attack technique recognition",
+    "execution lineage",
+    "weak supervision",
+    "graph classification",
+    "ATT&CK",
+    "host telemetry",
+    "environment shift"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementedBy",
+      "identifier": "10.5281/zenodo.YYYYYYY",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
+  ]
+}
